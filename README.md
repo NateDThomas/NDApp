@@ -6,7 +6,7 @@ To answer any questions about terms, services, accounts, et cetera, Notre Dame H
 Notre Dame High School reserves the rights to ND App. Notre Dame High School is responsible for maintaining, securing, and updating the application.
 All dependencies that were used can be found under package.json.
 
-# INSTALLATION INSTRUCTIONS:
+## INSTALLATION INSTRUCTIONS:
 Download the files from github and open them in your IDE
 Make sure the dart apk, flutter, and android studio are installed on your system
 Run the command: ‘flutter build apk --no-shrink’ in the terminal in your IDE
