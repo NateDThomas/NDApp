@@ -7,11 +7,11 @@ Notre Dame High School reserves the rights to ND App. Notre Dame High School is 
 All dependencies that were used can be found under package.json.
 
 ## INSTALLATION INSTRUCTIONS:
-Download the files from github and open them in your IDE
-Make sure the dart apk, flutter, and android studio are installed on your system
-Run the command: ‘flutter build apk --no-shrink’ in the terminal in your IDE
-Open your android emulator and drag the new apk into the emulator
-Navigate to the apps screen and enter the app
+1. Download the files from github and open them in your IDE
+2. Make sure the dart apk, flutter, and android studio are installed on your system
+3. Run the command: ‘flutter build apk --no-shrink’ in the terminal in your IDE
+4. Open your android emulator and drag the new apk into the emulator
+5. Navigate to the app's screen and enter the app
 
 ## TERMS OF SERVICE:
 https://docs.google.com/document/d/1XIYdrcLinQwyIJDGyuC1XXctNxIi9_upsJ4dO4HBfpA/edit
