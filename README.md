@@ -13,5 +13,5 @@ Run the command: ‘flutter build apk --no-shrink’ in the terminal in your IDE
 Open your android emulator and drag the new apk into the emulator
 Navigate to the apps screen and enter the app
 
-# TERMS OF SERVICE:
+## TERMS OF SERVICE:
 https://docs.google.com/document/d/1XIYdrcLinQwyIJDGyuC1XXctNxIi9_upsJ4dO4HBfpA/edit
